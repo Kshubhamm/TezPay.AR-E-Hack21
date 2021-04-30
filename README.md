@@ -1,4 +1,4 @@
-# TezPay.AR
+# TezPay.AR on Flutter
 
 ### Steps to run 
 - Change directory to flask app: cd /flask-app
