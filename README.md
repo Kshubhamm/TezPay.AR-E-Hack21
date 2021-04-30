@@ -6,16 +6,6 @@
 - 1st terminal (To run the flask app): ```python3 app.py ``` 
 - 2nd terminal (To run ganache for local ethereum blockchain): ``` ganache-cli -d ``` 
 
-<br>
- <p align="center">
-  <img src="https://github.com/yashverma9/HashMine-KU-HackFest/blob/main/Snaps/1.jpg">
-</p>
-<br>
-<br>
- <p align="center">
-  <img src="https://github.com/yashverma9/HashMine-KU-HackFest/blob/main/Snaps/2.jpg">
-</p>
-<br>
 
 
 
