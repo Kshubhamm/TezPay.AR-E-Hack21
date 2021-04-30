@@ -1,4 +1,4 @@
-# HashPay.AR
+# TezPay.AR
 
 ### Steps to run 
 - Change directory to flask app: cd /flask-app
@@ -45,7 +45,7 @@ Download link: https://developer.vuforia.com/downloads/sdk
 
 Add Vuphoria to Unity using Assets -> import package -> custom package -> vuphoria engine
 
-#### Ethereum Blockchain
+#### Ethereum Blockchain with Tezos
 Ethereum is a decentralized, open-source blockchain featuring smart contract functionality. Ether is the native cryptocurrency of the platform. It is the second-largest cryptocurrency by market capitalization, after Bitcoin. Ethereum is the most actively used blockchain.
 
 Programmed in python3 using Web3 Library.
